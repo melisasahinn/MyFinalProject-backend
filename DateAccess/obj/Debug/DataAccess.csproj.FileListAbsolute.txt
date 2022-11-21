@@ -1,0 +1,2 @@
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\MyFinalProject\DateAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\MyFinalProject\DateAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
